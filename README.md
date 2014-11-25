@@ -4,7 +4,7 @@ Togu CMS Vagrantfile
 Run the following commands to install Togu in a Vagrant box
 
 ```
-$ git clone git@github.com:togucms/Vagrant.git
+$ git clone https://github.com/togucms/Vagrant.git
 $ cd Vagrant && vagrant up
 ```
 
